@@ -57,6 +57,4 @@ void loop()
   }
   digitalWrite(carroVermelho, LOW);
   } 
- 
-  
 }
