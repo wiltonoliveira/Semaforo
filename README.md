@@ -4,11 +4,11 @@ Um projeto simples de uma semáforo de transito para arduíno
 
 ## Getting Started
 
-Esse projeto é possível de execetado com qualquer placa Arduíno que tenha 7 portas no mínimo. Execute o código por meio da IDE própria do Arduíno sem dificuldades.
+Esse projeto é possível de executado com qualquer placa Arduíno que tenha 7 portas no mínimo. Execute o código por meio da IDE própria do Arduíno sem dificuldades.
 
 ### Pre requisitos
 
-Os materiais necessários para a montagem dos circuitos estão listados abaixo
+Os materiais necessários para a montagem do circuito estão listados abaixo
 
 ```
 2 LEDs Vermelhos
