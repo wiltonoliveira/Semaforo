@@ -6,6 +6,8 @@ Um projeto simples de uma semáforo de transito para arduíno
 
 Esse projeto é possível de executado com qualquer placa Arduíno que tenha 7 portas no mínimo. Execute o código por meio da IDE própria do Arduíno sem dificuldades.
 
+<img src="./esquemaSemaforo.png" style="width: 650px; max-width: 70%; height: auto;" />
+
 ### Pre requisitos
 
 Os materiais necessários para a montagem do circuito estão listados abaixo
